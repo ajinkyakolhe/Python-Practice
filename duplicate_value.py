@@ -9,3 +9,4 @@ for i in l:
         n.append(i)
 print("The list of unrepeated elements: ",  m)
 print("The list of repeated elements: ",  n)
+
